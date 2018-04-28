@@ -1,2 +1,2 @@
-# store-management-package
-Artisan Package for Employee Management
+# Store or Branch Office Management
+Artisan Package for Store or Branch Office Management
